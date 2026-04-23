@@ -6,6 +6,8 @@ APK Builder Pro_5.0 стабильная версия
 Website 2 APK Builder Pro позволяет мгновенно превратить любой веб-сайт, HTML5-проект или локальную HTML-папку в полнофункциональное приложение для Android.  
 Поддерживает ** HTML, HTML5, PHP, HTM, JS, CSS **.
 
+![Alt text](https://camo.githubusercontent.com/affa081fd3818d0f8827ae2636a3fc2956aa46ada9c58bbbc464f0466fcd196b/687474703a2f2f77656273697465746f61706b2e636f6d2f696d616765732f73637265656e73686f74732f76362e305f315f6d696e2e706e67)
+
 ---
 
 ## **🚀 Что нового в версии 6.0**
